@@ -19,7 +19,7 @@ public class Test {
         cus2.cusName="Nashir";
         cus2.ifsc="SBIN002";
         cus2.balance=3000;
-        accountService.deposit(1000,cus2);
+        accountService.deposit(0,cus2);
         accountService.withDraw(5700,cus2);
         accountService.details(cus2);
 

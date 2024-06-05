@@ -2,7 +2,7 @@ package account;
 
 public class AccountService {
 
-    Account deposit(double amount,Account account)
+    void deposit(double amount,Account account)
     {
 
         if (amount>0)
@@ -10,11 +10,11 @@ public class AccountService {
             account.balance+=amount;
         }
         else
-            System.out.println("balance should be > 0");
-        return account;
+            System.out.println("deposit amount should be > 0");
+
 
     }
-    Account withDraw(double amount,Account account)
+    void withDraw(double amount, Account account)
     {
 
         if (amount<=account.balance&&account.balance-amount>Account.minBal)
@@ -23,7 +23,6 @@ public class AccountService {
         }
         else
             System.out.println("insufficient balance ");
-        return account;
     }
 
     void details(Account account)

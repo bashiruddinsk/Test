@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3d2fa6d-9931-4905-bb79-bf2f46af367f" name="Changes" comment="acc">
-      <change afterPath="$PROJECT_DIR$/src/Voting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/movieticket/Row.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/movieticket/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programss/pgm1.java" afterDir="false" />
+    <list default="true" id="d3d2fa6d-9931-4905-bb79-bf2f46af367f" name="Changes" comment="acc1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/account/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/account/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/account/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/account/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,12 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717577496130</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="acc1">
+      <option name="closed" value="true" />
+      <created>1717578373698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717578373698</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="acc" />
-    <option name="LAST_COMMIT_MESSAGE" value="acc" />
+    <MESSAGE value="acc1" />
+    <option name="LAST_COMMIT_MESSAGE" value="acc1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
