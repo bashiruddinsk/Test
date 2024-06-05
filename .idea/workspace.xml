@@ -1,29 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3d2fa6d-9931-4905-bb79-bf2f46af367f" name="Changes" comment="" />
+    <list default="true" id="d3d2fa6d-9931-4905-bb79-bf2f46af367f" name="Changes" comment="acc">
+      <change afterPath="$PROJECT_DIR$/src/Voting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/movieticket/Row.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/movieticket/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programss/pgm1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="user" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;bashiruddinsk&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/bashiruddinsk/Test.git&quot;,
+    &quot;accountId&quot;: &quot;71093f8f-8f90-4fa3-be74-e9562fc3547e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2g8PhZXqezcQHDaEK6xHvBhYkOH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Demo.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.pgm1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "user",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/shaik bashiruddin/IdeaProjects/gitjavalatestdemo/src/Demo.java",
     "onboarding.tips.debug.path": "C:/Users/shaik bashiruddin/IdeaProjects/Practice/src/Main.java"
   }
 }]]></component>
@@ -36,7 +76,20 @@
       <option name="presentableId" value="Default" />
       <updated>1715076353371</updated>
     </task>
+    <task id="LOCAL-00001" summary="acc">
+      <option name="closed" value="true" />
+      <created>1717577496130</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717577496130</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="acc" />
+    <option name="LAST_COMMIT_MESSAGE" value="acc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
